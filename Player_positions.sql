@@ -1,0 +1,15 @@
+INSERT INTO Player_positions  VALUES 
+(1, 'GK'),
+(2, 'CB'),
+(3, 'LB'),
+(4, 'FB'),
+(5, 'LWB'),
+(6, 'RWB'),
+(7, 'SW'),
+(8, 'DM'),
+(9, 'CM'),
+(10, 'AM'),
+(11, 'LW'),
+(12, 'RW'),
+(13, 'CF'),
+(14, 'WF');
