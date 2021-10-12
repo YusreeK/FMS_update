@@ -1,5 +1,5 @@
 <?php
-$connection = mysqli_connect('localhost', 'root', 'wawasan','Soccer');
+$connection = mysqli_connect('localhost', 'root', 'wawasan','Football');
 if($connection){
     echo"<br />";
     echo "";
